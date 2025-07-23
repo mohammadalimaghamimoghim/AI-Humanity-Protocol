@@ -60,7 +60,26 @@ We are seeking:
 
 All rights reserved © 2025 Mohammad Ali Maghami Moghim  
 Do not redistribute or copy without written permission.
+---
+## 🔥 Why This Project Matters
 
+In a world overwhelmed by data but underwhelmed by compassion, **AI Humanity Protocol** bridges the gap between **technology and empathy**. 
+
+💡 This is not just a project — it's a **global movement** toward justice, equity, and intelligent compassion.
+
+We believe:
+- AI should **serve people**, not just corporations.
+- Those most in need should be the **first to benefit** from innovation.
+- Open-source ideas can drive **real humanitarian change**.
+
+By supporting this initiative, you are joining a vision that goes beyond code — toward a future where **algorithms become allies of the voiceless**.
+
+---
+
+Together, we turn data into dignity.
+
+🧠 With purpose,  
+**Mohammad Ali Maghami Moghim**
 ---
 
 ## 🌐 Tags
